@@ -16,7 +16,7 @@ let questions=
 [
   {
     question:"Where is the capital city of the Turkey ?",
-    answer:["Konya","Istanbul","Ankara","İzmir"],
+    answer:["Konya","Istanbul","Ankara","Izmir"],
     correctAnswer:2,
   },
   {
