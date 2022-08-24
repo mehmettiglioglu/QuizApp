@@ -1,0 +1,46 @@
+body{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt0CSC6R4xvMCUwUgW1Cz0J0ld1m2ElqJfkw&usqp=CAU");
+}
+.container{
+    position: relative;
+}
+.card{
+    margin: auto;
+    width: 50%;
+    margin-top: 100px;
+    
+}
+.button{
+    position: absolute;
+    left: 70%;
+    top: 50%
+}
+.alt{
+    margin-bottom: 10px;
+}
+.alt :nth-child(1){
+    margin-top: 10px;
+}
+.score{
+    font-family: monospace;
+    font-size: 60px;
+    text-align: center;
+    background-color:bisque;
+}
+.score-board{
+    text-align: center;
+    background-color: bisque;
+}
+.h1{
+    font-family:monospace;
+    color:black;
+}
+.card-body{
+    background-color: beige;
+}
+.choise{
+    font-size: large;
+}
+.alt:hover{
+    background-color: grey;
+}
